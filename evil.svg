@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="80" onload="alert('SVG-'+document.domain)"><script>alert('SVG-script-'+document.domain)</script><rect width="200" height="80" fill="#ef4444"/></svg>
